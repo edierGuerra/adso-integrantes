@@ -1,9 +1,3 @@
-
 Edier Guerra
 Junior Herrera
-camilo
-print("hola mundo")
-
-HOLA, YA ME DIO
-
-Cambio hecho desde mi nueva rama (ramaJunior)
+Camilo
